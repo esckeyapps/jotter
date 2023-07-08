@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+}
+
+main {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-textarea {
+    background-color: transparent;
+    resize: none;
+    outline: none;
+    width: 100%;
+    text-align: center;
+    }
